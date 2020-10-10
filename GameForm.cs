@@ -403,11 +403,11 @@ Please try again");
                     {
                         EndRound();
                     }
-                    else
+                }
+                else
                     {
                         EnableCurrentPlayerButtons();
                     }
-                }
             }
         }
 
